@@ -208,6 +208,81 @@
 				"disableScroll": true,
 				"navigationStyle": "custom"
 			}
+<<<<<<< HEAD
+=======
+		},
+		{
+			"path": "pages/part4/step6_1/step6_1",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step6_2/step6_2",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step6_3/step6_3",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step7/step7",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step7_1/step7_1",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step7_2/step7_2",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step7_3/step7_3",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step7_4/step7_4",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step7_5/step7_5",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+>>>>>>> ac63333 (2023/3/8)
 		}
 	],
 	"globalStyle": {

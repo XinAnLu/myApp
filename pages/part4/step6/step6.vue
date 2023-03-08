@@ -13,6 +13,14 @@
 
     <!-- 内容区域 -->
 	<image class="ditu" src="../../../static/p4/图片15.png"></image>
+<<<<<<< HEAD
+=======
+	<view class="tongfengkou" @click="tongfengkou()"></view>
+	<view class="navBox">
+		<image @click="handleLeftClick" class="pre" src="../../../static/p2/arrowLeft.png" mode="widthFix"></image>
+		<image @click="handleRightClick" class="next" src="../../../static/p2/arrowRight.png" mode="widthFix"></image>
+	</view>
+>>>>>>> ac63333 (2023/3/8)
     <!-- 内容区域 -->
   </view>
 </template>
@@ -34,7 +42,27 @@ export default {
 		  uni.navigateTo({
 		  	url:''
 		  })
+<<<<<<< HEAD
 	  }
+=======
+	  },
+	  tongfengkou() {
+		  uni.navigateTo({
+		  	url:'/pages/part4/step6_1/step6_1'
+		  })
+	  },
+	  handleLeftClick() {
+	  	// uni.navigateBack();
+	  	uni.navigateTo({
+	  		url: '/pages/part4/step1/step1'
+	  	});
+	  },
+	  handleRightClick() {
+	  	uni.navigateTo({
+	  		url: '/pages/part4/step6_2/step6_2'
+	  	})
+	  },
+>>>>>>> ac63333 (2023/3/8)
   },
 };
 </script>

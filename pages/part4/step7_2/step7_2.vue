@@ -12,16 +12,11 @@
     <!-- 顶部导航 -->
 
     <!-- 内容区域 -->
-	<image class="ditu" src="../../../static/p4/图片6.png"></image>
-	<view class="tingdian" @click="tingdian()"></view>
-	<view class="tingshui" @click="tingshui()"></view>
-	<view class="huozai" @click="huozai()"></view>
-	<view class="tongfeng" @click="tongfeng()"></view>
-	<view class="dongwutaoyi" @click="dongwutaoyi()"></view>
-	<view class="chuanran" @click="chuanran()"></view>
-	<view class="yaoshang" @click="yaoshang()"></view>
+	<image class="ditu" src="../../../static/p4/图片20.png"></image>
+	<view class="tongfengkou" @click="tongfengkou()"></view>
 	<view class="navBox">
 		<image @click="handleLeftClick" class="pre" src="../../../static/p2/arrowLeft.png" mode="widthFix"></image>
+		<image @click="handleRightClick" class="next" src="../../../static/p2/arrowRight.png" mode="widthFix"></image>
 	</view>
     <!-- 内容区域 -->
   </view>
@@ -40,28 +35,25 @@ export default {
 	plus.screen.lockOrientation("landscape"); 
   },
   methods: {
-	  dongwutaoyi() {
+	  weitaochu() {
 		  uni.navigateTo({
-		  	url:'/pages/part4/step2/step2'
+		  	url:''
 		  })
 	  },
-	  chuanran() {
-		uni.navigateTo({
-			url:'/pages/part4/step6/step6'
-		})  
+	  tongfengkou() {
+		  uni.navigateTo({
+		  	url:'/pages/part4/step6_1/step6_1'
+		  })
 	  },
-<<<<<<< HEAD
-=======
-	  yaoshang() {
-		 uni.navigateTo({
-		 	url:'/pages/part4/step7/step7'
-		 }) 
-	  },
->>>>>>> ac63333 (2023/3/8)
 	  handleLeftClick() {
 	  	// uni.navigateBack();
 	  	uni.navigateTo({
-	  		url: '/pages/part1/step1_1/step1_1'
+	  		url: '/pages/part4/step7_1/step7_1'
+	  	});
+	  },
+	  handleRightClick() {
+	  	uni.navigateTo({
+	  		url: '/pages/part4/step7_3/step7_3'
 	  	})
 	  },
   },
@@ -69,5 +61,5 @@ export default {
 </script>
 
 <style lang="scss">
-@import url('./step1.css');
+@import url('./step7_2.css');
 </style>

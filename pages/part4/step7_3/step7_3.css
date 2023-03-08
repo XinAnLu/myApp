@@ -17,47 +17,20 @@ page {
 	width: 100%;
 	height: 100%;
 }
-.dongwutaoyi {
-	position: absolute;
-<<<<<<< HEAD
-	/* border: solid red; */
-=======
-	border: solid red;
->>>>>>> ac63333 (2023/3/8)
-	width: 180rpx;
-	height: 40rpx;
-	top: 72%;
-	left: 5%;
-}
-.chuanran {
+.dongwujibing {
 	position: absolute;
 	border: solid red;
-<<<<<<< HEAD
-	width: 410rpx;
-	height: 40rpx;
-	top: 45%;
-	left: 23%;
-=======
-	width: 170rpx;
-	height: 40rpx;
-	top: 72%;
-	left: 39%;
+	width: 303rpx;
+	height: 77rpx;
+	left: 29%;
+	top: 15%;
 }
-.yaoshang {
-	position: absolute;
-	border: solid red;
-	width: 170rpx;
-	height: 40rpx;
-	left: 72%;
-	top: 72%;
->>>>>>> ac63333 (2023/3/8)
-}
-.navBox{
+.navBox {
 	width: 100%;
 	height: 50rpx;
 	/* background: red; */
 	position: absolute;
-	bottom: 0; 
+	bottom: 0;
 	z-index: 1000;
 	left: 0;
 	padding: 0 50rpx;
@@ -66,6 +39,19 @@ page {
 	align-items: center;
 	box-sizing: border-box;
 }
-.pre{
+
+.next {
 	width: 50rpx;
+}
+
+.pre {
+	width: 50rpx;
+}
+.jianyijian {
+	position: absolute;
+	/* border: solid red; */
+	width: 50rpx;
+	height: 50rpx;
+	left: 37%;
+	top: 15%;
 }
