@@ -19,11 +19,8 @@ page {
 }
 .dongwutaoyi {
 	position: absolute;
-<<<<<<< HEAD
 	/* border: solid red; */
-=======
 	border: solid red;
->>>>>>> ac63333 (2023/3/8)
 	width: 180rpx;
 	height: 40rpx;
 	top: 72%;
@@ -32,12 +29,10 @@ page {
 .chuanran {
 	position: absolute;
 	border: solid red;
-<<<<<<< HEAD
 	width: 410rpx;
 	height: 40rpx;
 	top: 45%;
 	left: 23%;
-=======
 	width: 170rpx;
 	height: 40rpx;
 	top: 72%;
@@ -50,7 +45,6 @@ page {
 	height: 40rpx;
 	left: 72%;
 	top: 72%;
->>>>>>> ac63333 (2023/3/8)
 }
 .navBox{
 	width: 100%;

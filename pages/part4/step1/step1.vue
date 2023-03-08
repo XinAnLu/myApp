@@ -50,14 +50,11 @@ export default {
 			url:'/pages/part4/step6/step6'
 		})  
 	  },
-<<<<<<< HEAD
-=======
 	  yaoshang() {
 		 uni.navigateTo({
 		 	url:'/pages/part4/step7/step7'
 		 }) 
 	  },
->>>>>>> ac63333 (2023/3/8)
 	  handleLeftClick() {
 	  	// uni.navigateBack();
 	  	uni.navigateTo({

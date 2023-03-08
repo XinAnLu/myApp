@@ -13,7 +13,7 @@
 
     <!-- 内容区域 -->
 	<image class="ditu" src="../../../static/p4/图片22.png"></image>
-	<view class="tongfengkou" @click="tongfengkou()"></view>
+	<view class="gongzuotai" @click="gongzuotai()"></view>
 	<view class="navBox">
 		<image @click="handleLeftClick" class="pre" src="../../../static/p2/arrowLeft.png" mode="widthFix"></image>
 		<image @click="handleRightClick" class="next" src="../../../static/p2/arrowRight.png" mode="widthFix"></image>
@@ -35,14 +35,9 @@ export default {
 	plus.screen.lockOrientation("landscape"); 
   },
   methods: {
-	  weitaochu() {
+	  gongzuotai() {
 		  uni.navigateTo({
-		  	url:''
-		  })
-	  },
-	  tongfengkou() {
-		  uni.navigateTo({
-		  	url:'/pages/part4/step6_1/step6_1'
+		  	url:'/pages/part4/step7_5/step7_5'
 		  })
 	  },
 	  handleLeftClick() {

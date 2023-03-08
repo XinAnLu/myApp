@@ -208,8 +208,6 @@
 				"disableScroll": true,
 				"navigationStyle": "custom"
 			}
-<<<<<<< HEAD
-=======
 		},
 		{
 			"path": "pages/part4/step6_1/step6_1",
@@ -282,7 +280,6 @@
 				"disableScroll": true,
 				"navigationStyle": "custom"
 			}
->>>>>>> ac63333 (2023/3/8)
 		}
 	],
 	"globalStyle": {

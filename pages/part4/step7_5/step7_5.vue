@@ -13,7 +13,6 @@
 
     <!-- 内容区域 -->
 	<image class="ditu" src="../../../static/p4/图片23.png"></image>
-	<view class="tongfengkou" @click="tongfengkou()"></view>
 	<view class="navBox">
 		<image @click="handleLeftClick" class="pre" src="../../../static/p2/arrowLeft.png" mode="widthFix"></image>
 		<image @click="handleRightClick" class="next" src="../../../static/p2/arrowRight.png" mode="widthFix"></image>
