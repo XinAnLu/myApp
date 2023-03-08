@@ -1,0 +1,22 @@
+.ShiJian {
+	width: 100%;
+	height: 800px;
+}
+
+.shiyanshi {
+	position: absolute;
+	left: 33%;
+	top: 18%;
+	width: 240rpx;
+	height: 220rpx;
+	/* border: solid red; */
+}
+
+.siyushi {
+	position: absolute;
+	left: 33%;
+	top: 40%;
+	width: 240rpx;
+	height: 220rpx;
+	/* border: solid red; */
+}

@@ -1,0 +1,221 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/part1/step1/step1",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part1/step2/step2",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step1/step1",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step2/step2",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step3/step3",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step4/step4",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step5/step5",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step6/step6",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step7/step7",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step8/step8",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step9/step9",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step10/step10",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part2/step11/step11",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part3/step1/step1",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom",
+				"pageOrientation": "portrait-primary"
+			}
+		},
+		{
+			"path": "pages/part1/step1_1/step1_1",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part1/step1_2/step1_2",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part1/step3/step3",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step1/step1",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step2/step2",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step3/step3",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step3_2/step3_2",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step3_2/step3_2",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step5/step5",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step5_1/step5_1",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step5_2/step5_2",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/part4/step6/step6",
+			"style": {
+				"navigationBarTitleText": "",
+				"disableScroll": true,
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+		// "pageOrientation": "auto"
+	},
+	"uniIdRouter": {}
+}
