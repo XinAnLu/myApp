@@ -1,6 +1,6 @@
 <template>
 	<view class="box">
-		<image class="ShiJian" src="../../../static/p1/图片3.png"></image>
+		<image class="ShiJian" src="../../../static/p1/3.png"></image>
 		<view @click="shiyanshi" class="shiyanshi"></view>
 		<view @click="SiYuShi" class="siyushi"></view>
 	</view>

@@ -1,6 +1,6 @@
 {
     "name" : "drag",
-    "appid" : "__UNI__163CD1B",
+    "appid" : "__UNI__ED9908C",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -69,16 +69,18 @@
         "enable" : false
     },
     "vueVersion" : "2",
-	"orientation" : [
-		//竖屏正方向
-		"portrait-primary",
-		//竖屏反方向
-		"portrait-secondary",
-		//横屏正方向
-		"landscape-primary",
-		//横屏反方向
-		"landscape-secondary",
-		//自然方向
-		"default"
-	]
+    "orientation" : [
+        //竖屏正方向
+        "portrait-primary",
+        //竖屏反方向
+        "portrait-secondary",
+        //横屏正方向
+        "landscape-primary",
+        //横屏反方向
+        "landscape-secondary",
+        //自然方向
+        "default"
+    ],
+    "fallbackLocale" : "zh-Hans",
+    "locale" : "zh-Hans"
 }

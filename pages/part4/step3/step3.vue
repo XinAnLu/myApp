@@ -12,7 +12,7 @@
     <!-- 顶部导航 -->
 
     <!-- 内容区域 -->
-	<image class="ditu" src="../../../static/p4/图片8.png"></image>
+	<image class="ditu" src="../../../static/p4/8.png"></image>
 	<view class="weitaochu" @click="weitaochu()"></view>
 	<view class="yitaochu" @click="yitaochu()"></view>
     <!-- 内容区域 -->

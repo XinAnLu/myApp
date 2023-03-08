@@ -12,7 +12,7 @@
     <!-- 顶部导航 -->
 
     <!-- 内容区域 -->
-	<image class="ditu" src="../../../static/p4/图片15.png"></image>
+	<image class="ditu" src="../../../static/p4/15.png"></image>
 	<view class="tongfengkou" @click="tongfengkou()"></view>
 	<view class="navBox">
 		<image @click="handleLeftClick" class="pre" src="../../../static/p2/arrowLeft.png" mode="widthFix"></image>

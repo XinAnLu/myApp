@@ -12,7 +12,7 @@
     <!-- 顶部导航 -->
 
     <!-- 内容区域 -->
-	<image class="ditu" src="../../../static/p4/图片22.png"></image>
+	<image class="ditu" src="../../../static/p4/22.png"></image>
 	<view class="gongzuotai" @click="gongzuotai()"></view>
 	<view class="navBox">
 		<image @click="handleLeftClick" class="pre" src="../../../static/p2/arrowLeft.png" mode="widthFix"></image>

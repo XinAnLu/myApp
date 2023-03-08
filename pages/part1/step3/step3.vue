@@ -12,7 +12,7 @@
     <!-- 顶部导航 -->
 
     <!-- 内容区域 -->
-	<image class="ditu" src="../../../static/p1/图片5.png"></image>
+	<image class="ditu" src="../../../static/p1/5.png"></image>
 	<view class="jianyijian" @click="jianyijian()"></view>
 	<view class="huanchongjian" @click="huanchongjian()"></view>
 	<view class="xixiaojian" @click="xixiaojian()"></view>

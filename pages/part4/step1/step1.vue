@@ -12,7 +12,7 @@
     <!-- 顶部导航 -->
 
     <!-- 内容区域 -->
-	<image class="ditu" src="../../../static/p4/图片6.png"></image>
+	<image class="ditu" src="../../../static/p4/6.png"></image>
 	<view class="tingdian" @click="tingdian()"></view>
 	<view class="tingshui" @click="tingshui()"></view>
 	<view class="huozai" @click="huozai()"></view>
